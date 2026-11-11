@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+*.gba
+*.elf
+*.sav
+build/
+dist/
+.DS_Store
+tools/bin/

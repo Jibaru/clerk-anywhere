@@ -1,0 +1,35 @@
+{
+  "secret": "example-secret-change-me",
+  "vectors": [
+    {
+      "consoleId": "gba",
+      "challenge": "ABCD1234",
+      "username": "jibaru",
+      "code": "G3C2082Q0S"
+    },
+    {
+      "consoleId": "gba",
+      "challenge": "00000000",
+      "username": "user",
+      "code": "T68YYJW2HY"
+    },
+    {
+      "consoleId": "gba",
+      "challenge": "ZZZZZZZZ",
+      "username": "a_long-username1",
+      "code": "W8T5PWGXPK"
+    },
+    {
+      "consoleId": "gba",
+      "challenge": "7H3QK9XA",
+      "username": "Jibaru",
+      "code": "5VQJQ4DK48"
+    },
+    {
+      "consoleId": "gb",
+      "challenge": "ABCD1234",
+      "username": "jibaru",
+      "code": "1TXJJDS49M"
+    }
+  ]
+}
